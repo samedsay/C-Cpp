@@ -1,2 +1,2 @@
-# hello-world
-first trial in this github life in my career..
+# C Base Level
+I try to show basic C code examples.
